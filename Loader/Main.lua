@@ -3,7 +3,7 @@
 -- Repository: NixxScript | Branch: main
 -- Load this file using its own raw.githubusercontent.com URL.
 
-local GITHUB_USERNAME = "GITHUB_USERNAME"
+local GITHUB_USERNAME = "juanzzvy-a11y"
 local REPO = "NixxScript"
 local BRANCH = "main"
 local BASE_URL = "https://raw.githubusercontent.com/" .. GITHUB_USERNAME .. "/" .. REPO .. "/" .. BRANCH .. "/"
