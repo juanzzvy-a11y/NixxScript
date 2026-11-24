@@ -1,0 +1,5 @@
+PROJECT SUDAH DISET UNTUK GITHUB RAW
+====================================
+Gunakan GITHUB_PUSH_ORDER.txt dan README.txt.
+Jangan upload modul satu per satu ke Pastebin untuk versi GitHub ini.
+Loader/Main.lua mengambil seluruh modul dari raw.githubusercontent.com.

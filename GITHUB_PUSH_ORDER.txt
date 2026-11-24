@@ -1,0 +1,26 @@
+GITHUB PUSH CHECKLIST
+1. Create public repository: NixxScript
+2. Upload all folders/files from this project to repository root.
+3. Use branch: main
+4. Edit Loader/Main.lua: GITHUB_USERNAME = "garcielyes"
+5. Commit and push.
+6. Loader RAW:
+   https://raw.githubusercontent.com/YOUR_USERNAME/NixxScript/main/Loader/Main.lua
+
+Module RAW paths:
+BladeSpin/Info/UserInfo.lua
+BladeSpin/Teleport/PlayerTeleport.lua
+BladeSpin/System/SystemTools.lua
+BladeSpin/Server/ServerTools.lua
+BladeSpin/GameActions/GameActions.lua
+BladeSpin/Credits/Credits.lua
+Opah/ESP/ESP.lua
+Opah/Info/RadarPasscode.lua
+Opah/Misc/MovementVisual.lua
+Opah/Auto/KeyEscape.lua
+Integrations/Telegram/TelegramLogger.lua
+
+SECURITY:
+The previously supplied Pastebin logger contains a hard-coded Telegram bot token.
+Revoke it in BotFather immediately. Never publish a bot token in a public repo
+or in an executor/client script.
