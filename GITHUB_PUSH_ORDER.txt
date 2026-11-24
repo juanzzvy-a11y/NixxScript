@@ -1,11 +1,11 @@
 GITHUB PUSH CHECKLIST
-1. Create public repository: NixxScript
+1. Use existing repository: juanzzvy-a11y/nixyes
 2. Upload all folders/files from this project to repository root.
 3. Use branch: main
-4. Edit Loader/Main.lua: GITHUB_USERNAME = "garcielyes"
+4. Edit Loader/Main.lua: GITHUB_USERNAME = "juanzzvy-a11y"
 5. Commit and push.
 6. Loader RAW:
-   https://raw.githubusercontent.com/YOUR_USERNAME/NixxScript/main/Loader/Main.lua
+   https://raw.githubusercontent.com/juanzzvy-a11y/nixyes/main/Loader/Main.lua
 
 Module RAW paths:
 BladeSpin/Info/UserInfo.lua
